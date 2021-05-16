@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajputyuvraj
-- 👀 I’m interested in coding and learning new skills.
+- 👀 I’m interested in coding and learning python and wb development
 - 🌱 I’m currently learning python and web development
 - 📫 contact: 
      Email: yuvrajsrwork@gmail.com
